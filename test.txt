@@ -5,4 +5,8 @@ Slava Ukraini
 Hala Madrid
 
 
+<<<<<<< HEAD
 Uprising
+=======
+Ghost Division
+>>>>>>> 52b3b118e9786a9e4e3377affe39f4942e3bdc6b
